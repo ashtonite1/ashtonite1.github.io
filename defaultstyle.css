@@ -3,3 +3,6 @@ h2 {font-family: "Courier New", Courier, monospace; font-size: 20px; font-weight
 
 body {background-color:#ffffff;color:#000000;margin:0%;padding:10%;font-family: "Courier New", Courier, monospace; font-size: 18px;}
 
+body {
+    background-image: url("/images/p5.png");
+}
