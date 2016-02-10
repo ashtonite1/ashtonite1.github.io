@@ -1,2 +1,14 @@
-h1 { font-size: 30px}
+h1 { 
+	font-size: 30px; 
+	text-align: center;
+	color: #FFFFFF;
+}
 
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title {
+	margin: 5%;
+}
