@@ -4,11 +4,15 @@ img {
 	margin: 0 auto;
 }
 
+.roundcorner{
+	margin-top: 5%;
+}
+
 #title {
 	font-size: 72px; 
 	text-align: center;
 	color: #FFFFFF;
-	margin: 0 5%;
+	margin: 5%;
 }
 
 .center {
