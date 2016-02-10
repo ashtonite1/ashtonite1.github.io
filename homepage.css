@@ -1,16 +1,16 @@
 
 
 img {
-	margin: auto;
+	margin: 0 auto;
 }
 
 #title {
 	font-size: 72px; 
 	text-align: center;
 	color: #FFFFFF;
-	margin: 5%;
+	margin: 0 5%;
 }
 
 .center {
-	margin: auto;
+	margin: 0 auto;
 }
