@@ -1,14 +1,13 @@
-h1 { 
-	font-size: 72px; 
-	text-align: center;
-	color: #FFFFFF;
-}
+
 
 img {
 	margin: auto;
 }
 
 #title {
+	font-size: 72px; 
+	text-align: center;
+	color: #FFFFFF;
 	margin: 5%;
 }
 
