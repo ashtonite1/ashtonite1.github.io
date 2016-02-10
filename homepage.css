@@ -1,8 +1,5 @@
 
 
-img {
-	margin: 0 auto;
-}
 
 .roundcorner{
 	margin-top: 5%;
@@ -16,5 +13,6 @@ img {
 }
 
 .center {
+	display: block;
 	margin: 0 auto;
 }
